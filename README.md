@@ -17,7 +17,7 @@ Retorna a lista de cursos do usuário autenticado
 >   GET ​ /api​/v1​/curso
 
 Registra um curso associado ao usuáro autenticado 
->   POST ​/api​/v1​/curso​/registrar   (Registrar um curso)
+>   POST ​/api​/v1​/curso​/registrar
 
 ### Conceitos, bibliotecas, ferramentas e padrões utilizados no projeto
 
